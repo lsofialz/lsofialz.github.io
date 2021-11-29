@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: R
-  icon_pack: fas
-  name: Photography
+- icon: "R"
+  icon_pack: "custom"
+  name: "R"
+  description: "1000%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
