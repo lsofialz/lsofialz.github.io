@@ -39,5 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 # Activate this widget? true/false
-active: true
+active: false
 ---
