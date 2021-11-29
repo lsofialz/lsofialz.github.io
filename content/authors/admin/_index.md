@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:\
+interests:
 - Computational Biology
 - Regulatory Genomics
 - Gene Editing
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:lorenasofia.lopezzepeda@mdc-berlin.de
+  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lsofialz
