@@ -24,11 +24,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Statistic
-  - description: Molecular methods and CRISPR screening
+- description: Molecular methods and CRISPR screening
   icon: vials
   icon_pack: fas
   name: Wet lab
-  - description: Basic web development
+- description: Basic web development
   icon: html5
   icon_pack: fas
   name: Webdev
