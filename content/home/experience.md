@@ -26,19 +26,55 @@ experience:
     company: Berlin Institute for Medical Systems Biology.
     company_url: 'https://www.mdc-berlin.de/bimsb#t-about'
     company_logo: bimsb
-    location: Berlin
+    location: Berlin, Germany
     date_start: '2017-01-01'
     date_end: ''
     description: Using CRISPR pooled screens to understand gene regulation.
         
-  - title: 
-    company: University X
+  - title: Master of Science in Molecular Medicine
+    company: Charite Universitatsmedizin Berlin
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: charite
+    location: Berlin, Germany
+    date_start: '2014-10-15'
+    date_end: '2015-09-15'
+    description: Modeling Circadian Rhythms in Peripheral Tissues
+
+  - title: Research Intern
+    company: Cell Biology and Histology Department. Medical Faculty UNAM
+    company_url: ''
+    company_logo: facmed
+    location: Mexico City, Mexico
+    date_start: '2013-01-01'
+    date_end: '2014-01-01'
+    description: 
+
+  - title: Medical Intern
+    company: Hospital General de Mexico
+    company_url: ''
+    company_logo: general
+    location: Mexico City, Mexico
+    date_start: '2012-06-01'
+    date_end: '2012-12-31'
+    description:
+
+  - title: Research Intern
+    company: University Medical Center Groningen
+    company_url: ''
+    company_logo: umcg
+    location: Groningen, Netherlands
+    date_start: '2014-10-15'
+    date_end: '2015-09-15'
+    description: 6 month research stay in Rheumathology department
+
+  - title: Bacherlor in Medicine
+    company:  Medical Faculty UNAM
+    company_url: ''
+    company_logo: facmed
+    location: Mexico City, Mexico
+    date_start: '2007-07-01'
+    date_end: '2012-09-15'
+    description: Modeling Circadian Rhythms in Peripheral Tissues
 
 design:
   columns: '2'
