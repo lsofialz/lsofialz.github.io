@@ -36,7 +36,7 @@ feature:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
 - icon: "R"
- icon_pack: "custom"
- name: "Surfing"
- description: "90%"
+  icon_pack: "custom"
+  name: "Surfing"
+  description: "90%"
 ---
