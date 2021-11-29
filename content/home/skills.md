@@ -30,8 +30,12 @@ feature:
   name: Wet lab
 - description: Basic web development
   icon: html5
-  icon_pack: fas
+  icon_pack: fab
   name: Webdev
+- description: familiar with *nix operating systems and bash scripting
+  icon: linux
+  icon_pack: fab
+  name: Linux
   
   #Uncomment to use emoji icons.
 #- icon: ":smile:"
