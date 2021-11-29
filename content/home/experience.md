@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.mdc-berlin.de/bimsb#t-about'
     company_logo: bimsb
     location: Berlin
-    date_start: '2017'
+    date_start: '2017-01-01'
     date_end: ''
     description: Using CRISPR pooled screens to understand gene regulation.
         
