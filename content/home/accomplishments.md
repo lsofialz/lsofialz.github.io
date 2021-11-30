@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+- certificate_url: 
+  date_end: "2020-12-31"
+  date_start: "2017-01-01"
+  description: "Competitive fellowship from the MDC International Graduate School"
   organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  organization_url: 
+  title: MDC/NYU Exchange program
+  url: "https://www.mdc-berlin.de/mdc-nyu-exchange-program?mdcbl%5B0%5D=/bimsb%23t-phdexchange&mdcbl%5B1%5D=/mdc-nyu-exchange-program%23t-phdexchange&mdctl=1&mdcou=68130&mdcot=4&mdcbv=vutorSXW5TBK6bJVMl9k_I4cr1UZYb1PTkzTsToOtc8"
+- certificate_url: 
+  date_end: "2016-09-01"
+  date_start: "2015-07-01"
+  description: Competitive scholarship for graduate studies.
+  organization: DAAD/CONACyT
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: Country-related cooperation programme with Mexico CONACYT
+  url: https://daad.de/go/en/stipa50015951
+- certificate_url: 
+  date_end: "2012-06-01"
+  date_start: "2012-01-01"
+  description: Competitive scholarship for international exchange program with the University of Groningen.
+  organization: Office for International Cooperation (DGECI) at the National Autonomous University of Mexico (UNAM).
+  organization_url: 
+  title: Country-related cooperation programme with Mexico CONACYT
+  url: https://www.unaminternacional.unam.mx/es/convocatorias/alumnos/internas/dgeci-movilidad-estudiantil
 
 design:
   columns: '2' 
