@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - organization: MDC
-  organization_url: 
+  organization_url: www.mdc-berlin.de
   title: MDC/NYU Exchange program
   url: "https://www.mdc-berlin.de/mdc-nyu-exchange-program?mdcbl%5B0%5D=/bimsb%23t-phdexchange&mdcbl%5B1%5D=/mdc-nyu-exchange-program%23t-phdexchange&mdctl=1&mdcou=68130&mdcot=4&mdcbv=vutorSXW5TBK6bJVMl9k_I4cr1UZYb1PTkzTsToOtc8"
   certificate_url: 
@@ -33,7 +33,7 @@ item:
   description: "Competitive fellowship from the MDC International Graduate School"
 
 - organization: DAAD
-  organization_url: https://www.edx.org
+  organization_url: www.daad.de
   title: Country-related cooperation programme with Mexico CONACYT
   url: https://daad.de/go/en/stipa50015951
   certificate_url: 
@@ -41,9 +41,9 @@ item:
   date_start: "2015-07-01"
   description: Competitive scholarship for graduate studies.
 
-- organization: Office for International Cooperation (DGECI) at the National Autonomous University of Mexico (UNAM).
-  organization_url: 
-  title: Country-related cooperation programme with Mexico CONACYT
+- organization: DGECI
+  organization_url: www.unaminternal.unam.mx
+  title: Student mobility Scholarship
   url: https://www.unaminternacional.unam.mx/es/convocatorias/alumnos/internas/dgeci-movilidad-estudiantil
   certificate_url: 
   date_end: "2012-06-01"
