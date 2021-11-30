@@ -27,7 +27,7 @@ item:
   date_end: "2020-12-31"
   date_start: "2017-01-01"
   description: "Competitive fellowship from the MDC International Graduate School"
-  organization: Coursera
+  organization: MDC
   organization_url: 
   title: MDC/NYU Exchange program
   url: "https://www.mdc-berlin.de/mdc-nyu-exchange-program?mdcbl%5B0%5D=/bimsb%23t-phdexchange&mdcbl%5B1%5D=/mdc-nyu-exchange-program%23t-phdexchange&mdctl=1&mdcou=68130&mdcot=4&mdcbv=vutorSXW5TBK6bJVMl9k_I4cr1UZYb1PTkzTsToOtc8"
@@ -35,7 +35,7 @@ item:
   date_end: "2016-09-01"
   date_start: "2015-07-01"
   description: Competitive scholarship for graduate studies.
-  organization: DAAD/CONACyT
+  organization: DAAD
   organization_url: https://www.edx.org
   title: Country-related cooperation programme with Mexico CONACYT
   url: https://daad.de/go/en/stipa50015951
