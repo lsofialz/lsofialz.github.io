@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:lorenasofia.lopezzepeda@mdc-berlin.de
+  link: mailto:sofia.lozepeda@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lsofialz
